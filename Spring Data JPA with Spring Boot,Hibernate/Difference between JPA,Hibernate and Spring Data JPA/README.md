@@ -1,4 +1,4 @@
-
+g
 # Difference between JPA, Hibernate and Spring Data JPA
 
 ## Java Persistence API (JPA)
